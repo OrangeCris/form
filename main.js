@@ -1,6 +1,6 @@
 import {
     createApp as b
-} from "https://cdn.jsdelivr.net/npm/petite-vue@0.4.1/dist/petite-vue.iife.min.js?module";
+} from "https://cdn.jsdelivr.net/npm/petite-vue?module";
 let v;
 const L = new Uint8Array(16);
 
